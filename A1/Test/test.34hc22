@@ -1,0 +1,68 @@
+c
+34HC22
+//move A to memory
+m
+0
+0c
+m
+1
+00
+m
+2
+10
+g
+0
+//load A with value
+m
+3
+37
+m
+4
+6
+m
+5
+38
+m
+6
+9
+//increment register A
+m
+7
+53
+//branch always
+m
+8
+5a
+m
+9
+01
+m
+0a
+f0
+//branch if A < B
+m
+01f0
+5b
+m
+01f1
+01
+m
+01f2
+d0
+//branch if less than A
+m
+01d0
+5d
+m
+01d1
+08
+m
+01d2
+01
+m
+01d3
+a0
+e
+d
+s
+q

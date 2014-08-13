@@ -1,0 +1,14 @@
+- This project have been tested using Debian OS.
+- This project contains 11 files:
++ makefile
++ main.h
++ main.cpp
++ micro.h
++ micro.cpp
++ mopsr500.h
++ mopsr500.cpp
++ pic32f42.h
++ pic32f42.cpp
++ r34hc22.h
++ r34hc22.cpp
+
